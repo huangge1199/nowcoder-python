@@ -3,7 +3,14 @@
 # @date 2022/10/25
 # @file NP2.py
 
-s1 = "Hello World!"
-s2 = "Hello Nowcoder!"
-print(s1)
-print(s2)
+def solution():
+    s1 = "Hello World!"
+    s2 = "Hello Nowcoder!"
+    print(s1)
+    print(s2)
+
+
+if __name__ == "__main__":
+    solution()
+
+
